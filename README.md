@@ -24,8 +24,8 @@
 
 ### 📊 Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=transparent&hide_border=true&title_color=333&text_color=666&icon_color=333" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=transparent&hide_border=true&title_color=333&text_color=666" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=z2004y&show_icons=true&theme=transparent&hide_border=true&title_color=333&text_color=666&icon_color=333" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z2004y&layout=compact&theme=transparent&hide_border=true&title_color=333&text_color=666" height="150" />
 </p>
 
 ---
