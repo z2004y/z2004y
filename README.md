@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [你的名字] 
+# Hi, I'm Yi
 **AI Researcher & Developer**
 
 <p align="center">
