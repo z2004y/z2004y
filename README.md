@@ -46,16 +46,7 @@
 ## 📊 Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=z2004y&show_icons=true&theme=transparent&title_color=000&icon_color=444&text_color=666&hide_border=true" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z2004y&layout=compact&theme=transparent&title_color=000&text_color=666&hide_border=true" width="100%" />
-      </td>
-    </tr>
-  </table>
+
 
   <img src="https://raw.githubusercontent.com/z2004y/z2004y/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
 </div>
