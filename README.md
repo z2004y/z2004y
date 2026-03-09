@@ -13,7 +13,7 @@
 </div>
 
 ## 🧩 Profile
-* **Education:** 英语教育专业 (English Education) @ Lanzhou City University
+* **Education:** 英语教育专业 (English Education)
 * **Focus:** 大语言模型 (LLM) 与 提示工程 (Prompt Engineering)
 * **Core:** Python 脚本自动化 / Web 爬虫 / AI 原生应用构建
 * **Philosophy:** *Minimalism in design, Complexity in logic.*
