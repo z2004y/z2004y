@@ -56,7 +56,7 @@
 <div align="center">
 
 ### 📫 Connect with me
-[![Email](https://img.shields.io/badge/Email-Contact-black?style=flat-square&logo=gmail)](mailto:你的邮箱)
+[![Email](https://img.shields.io/badge/Email-Contact-black?style=flat-square&logo=gmail)](mailto:721683736@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/z2004y)
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=white&text_color=999" width="400" />
